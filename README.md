@@ -14,6 +14,14 @@ Ionicons: [Get them here](http://ionicons.com/)
 
 San Fransisco Fonts: [Get them here](https://developer.apple.com/fonts/)
 
+
+## About
+
+   Sketch templates for NativeBase by [GeekyAnts](https://geekyants.com?utm_source=github&utm_medium=opensource&utm_campaign=nativebase-sketch-template).
+
+   We offer [design system development](https://geekyants.com/solution/design-system-development-service?utm_source=github&utm_medium=opensource&utm_campaign=nativebase-sketch-template)
+   and [UI/UX design services](https://geekyants.com/service/ui-ux-design-services?utm_source=github&utm_medium=opensource&utm_campaign=nativebase-sketch-template).
+
 ### Next
 
 [Download the Sketch Template](https://github.com/GeekyAnts/NativeBase-Sketch-Template/blob/master/nativebase-v1-2-0.sketch?raw=true)
